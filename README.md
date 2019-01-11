@@ -6,8 +6,8 @@
 
 WifiThread为签到线程，StartThread为开始签到线程（推荐在生产环境下使用消息队列来实现签到状态的订阅）
 
-## 演示视屏
-[视屏地址](http://yun.clovef.top/?/Final.mp4)
+## 演示视频
+[视频下载](http://yun.clovef.top/?/Final.mp4)
 
 ## 后端
 sign.myzju.cn文件夹下为web服务器后端，使用php+mysql搭建。
